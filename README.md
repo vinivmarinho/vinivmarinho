@@ -26,7 +26,6 @@
   
 ---
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=radical)
 
 > "Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende." 
 
