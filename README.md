@@ -15,7 +15,7 @@
 
 ## 🚀 Alguns dos projetos que já criei para treinar HTML, CSS e JS
 - [📖 Sistema de Biblioteca Online](https://vinivmarinho.github.io/projetos/biblioteca/index.html)  
-- [🌐 Landing Page](https://vinivmarinho.github.io/projetos/landing_page/index.html)  
+- [🌐 Página de cadastro de usuários](https://vinivmarinho.github.io/projetos/cadastro_usuarios/index.html)  
 - [🧮 Calculadora](https://vinivmarinho.github.io/projetos/calculadora/index.html)  
 - [💬 Página de Feedback de Clientes](https://vinivmarinho.github.io/projetos/feedback_clientes/index.html)
 
