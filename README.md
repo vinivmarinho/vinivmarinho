@@ -1,7 +1,7 @@
 # Olá! 👋 Eu sou Vinícius
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Focado em me tornar um **desenvolvedor web** com HTML, CSS e JavaScript  
+💻 Focado em me tornar um **desenvolvedor web** com HTML, CSS, JavaScript e React
 📚 Amo aprender coisas novas e criar projetos práticos para treinar minhas habilidades  
 🧑‍🏫 **Professor de inglês**
 
