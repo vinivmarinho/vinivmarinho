@@ -28,8 +28,8 @@
 
   ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-marinho-376a8a365/)  
-- [Email](mailto:vini.marinho2004@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-marinho-376a8a365/)
+- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:vini.marinho2004@gmail.com)
   
 ---
 
