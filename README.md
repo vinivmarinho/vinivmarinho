@@ -1,18 +1,33 @@
 # Olá! 👋 Eu sou Vinícius
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-💻 Focado em me tornar um **desenvolvedor front-end**  
+💻 Desenvolvedor front-end em formação
 📚 Amo aprender coisas novas e criar projetos práticos para treinar minhas habilidades  
 🧑‍🏫 **Professor de inglês**
 
 ---
 ## 🌐 Tecnologias & Ferramentas
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+
+## 🚀 Projeto em destaque (Full Stack)
+
+### 📚 Gerenciamento de Alunos
+
+Sistema full stack para gerenciamento de alunos, turmas e controle financeiro, desenvolvido com React, Node.js, Express e MongoDB.
+O projeto simula um sistema administrativo escolar com dashboard interativo, API REST e integração com banco de dados.
+
+👉 Foco em prática de arquitetura full stack, CRUD completo e integração frontend + backend.
+
+
+🔗 **Acessar aplicação:** https://gerenciamento-de-alunos-vinicius.vercel.app/
+
 
 ## 🚀 Projetos práticos
 ### 🧠 HTML, CSS e JavaScript
@@ -30,6 +45,7 @@
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-marinho-376a8a365/)
 - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:vini.marinho2004@gmail.com)
+- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/5592984035972)
   
 ---
 
