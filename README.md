@@ -37,7 +37,7 @@ O projeto simula um sistema administrativo escolar com dashboard interativo, API
 
 ### 🧠 HTML, CSS e JavaScript
 
-- [📖 Sistema de Biblioteca Online](https://vinivmarinho.github.io/projetos/biblioteca/index.html)  
+- [📖 Sistema de Biblioteca Online](https://vinivmarinho.github.io/biblioteca/)  
 - [🌐 Página de cadastro de usuários](https://vinivmarinho.github.io/cadastro_usuarios/)  
 - [🧮 Calculadora](https://vinivmarinho.github.io/projetos/calculadora/index.html)  
 - [💬 Página de Feedback de Clientes](https://vinivmarinho.github.io/projetos/feedback_clientes/index.html)
