@@ -60,7 +60,7 @@ Sistema full stack para gerenciamento de alunos, turmas e controle financeiro.
 React • Node.js • Express • MongoDB
 
 🔗 **Acessar aplicação:**
-https://gerenciamento-de-alunos-vinicius.vercel.app/
+https://gestao-alunos.viniciusmarinho.dev.br/
 
 ---
 
