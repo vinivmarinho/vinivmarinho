@@ -9,11 +9,12 @@
 
 ## 🚀 Sobre mim
 
-Atualmente estou focado no desenvolvimento de aplicações web modernas utilizando JavaScript no ecossistema full stack.
+Sou desenvolvedor focado em **TypeScript, Node.js, React e PostgreSQL**, estudando e construindo aplicações web full stack.
 
-Gosto de transformar ideias em projetos práticos para evoluir minhas habilidades em frontend, backend, banco de dados e arquitetura de aplicações.
+Gosto de transformar ideias em projetos práticos e entender os fundamentos por trás das aplicações, desde a construção de APIs e modelagem de dados até frontend e arquitetura.
 
-Também atuo como professor de inglês, o que fortaleceu minhas habilidades de comunicação, didática e resolução de problemas.
+Também atuo como **professor de inglês**, experiência que fortaleceu minhas habilidades de comunicação, didática e resolução de problemas.
+
 
 ---
 
