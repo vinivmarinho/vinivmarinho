@@ -66,37 +66,6 @@ https://gestao-alunos.viniciusmarinho.dev.br/
 
 ---
 
-# 🚀 Projetos Práticos
-
-## 🧠 HTML, CSS & JavaScript
-
-### 📖 Sistema de Biblioteca Online
-
-🔗 https://vinivmarinho.github.io/biblioteca/
-
-### 🌐 Página de Cadastro de Usuários
-
-🔗 https://vinivmarinho.github.io/cadastro_usuarios/
-
-### 🧮 Calculadora
-
-🔗 https://vinivmarinho.github.io/projetos/calculadora/index.html
-
-### 💬 Página de Feedback de Clientes
-
-🔗 https://vinivmarinho.github.io/projetos/feedback_clientes/index.html
-
----
-
-## ⚛️ React
-
-### 📘 Projeto Dicionário em React
-
-Projeto utilizando consumo de API, componentes, estados e hooks.
-
-🔗 https://vinivmarinho.github.io/projeto-dicionario/
-
----
 
 ## 📚 Atualmente estudando
 
@@ -112,7 +81,6 @@ Projeto utilizando consumo de API, componentes, estados e hooks.
 ## 📈 Objetivos
 
 🎯 Evoluir como desenvolvedor full stack
-🎯 Criar aplicações úteis para pessoas reais
 🎯 Trabalhar com desenvolvimento web e tecnologia
 🎯 Ingressar na área de dados futuramente
 
