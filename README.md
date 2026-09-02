@@ -9,11 +9,12 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor focado em **TypeScript, Node.js, React e PostgreSQL**, estudando e construindo aplicações web full stack.
+Sou desenvolvedor Full Stack, estudando e construindo aplicações web com foco em resolver problemas de forma prática e compreender os fundamentos por trás de cada solução.
 
-Gosto de transformar ideias em projetos práticos e entender os fundamentos por trás das aplicações, desde a construção de APIs e modelagem de dados até frontend e arquitetura.
+Gosto de transformar ideias em projetos reais, explorando diferentes partes do desenvolvimento — desde a construção de APIs e modelagem de dados até a criação de interfaces e definição da arquitetura das aplicações.
 
-Também atuo como **professor de inglês**, experiência que fortaleceu minhas habilidades de comunicação, didática e resolução de problemas.
+Também atuo como **professor de inglês**, experiência que contribuiu para o desenvolvimento das minhas habilidades de comunicação, didática, organização e resolução de problemas.
+
 
 
 ---
