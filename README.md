@@ -1,27 +1,12 @@
-# 👋 Olá, eu sou Vinícius Marinho
+# Olá, eu sou o Vinícius 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
-💻 Desenvolvedor **Full Stack em formação**
-📚 Apaixonado por tecnologia, aprendizado contínuo e projetos práticos
-🧑‍🏫 Professor de inglês com foco em comunicação e imersão
+Sou **estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Full Stack em formação**. Atualmente, estudo desenvolvimento web e construo aplicações utilizando JavaScript, TypeScript, React e Node.js.
 
----
+Estou em busca da minha **primeira oportunidade na área de desenvolvimento**, onde eu possa contribuir com projetos reais e continuar evoluindo como desenvolvedor.
 
-## 🚀 Sobre mim
+## 🛠️ Tecnologias
 
-Sou desenvolvedor Full Stack, estudando e construindo aplicações web com foco em resolver problemas de forma prática e compreender os fundamentos por trás de cada solução.
-
-Gosto de transformar ideias em projetos reais, explorando diferentes partes do desenvolvimento — desde a construção de APIs e modelagem de dados até a criação de interfaces e definição da arquitetura das aplicações.
-
-Também atuo como **professor de inglês**, experiência que contribuiu para o desenvolvimento das minhas habilidades de comunicação, didática, organização e resolução de problemas.
-
-
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### 💻 Frontend
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -29,74 +14,79 @@ Também atuo como **professor de inglês**, experiência que contribuiu para o d
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white)
 
-### ⚙️ Backend & Banco de Dados
+**Backend e Banco de dados**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### 🧰 Ferramentas
+**Ferramentas**
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
----
+## 🚀 Projetos em destaque
 
-# 🌟 Projeto em destaque
+### 🎓 Gestão de Alunos
 
-## 📚 Gerenciamento de Alunos (Full Stack)
+Sistema Full Stack para gerenciamento de alunos, turmas e pagamentos.
 
-Sistema full stack para gerenciamento de alunos, turmas e controle financeiro.
+**Tecnologias:** React, Node.js, Express, MongoDB, Mongoose, Chart.js
 
-### 🔥 Funcionalidades
-
-* CRUD completo
-* Dashboard administrativo
-* API REST
-* Integração frontend + backend
-* Banco de dados MongoDB
-* Controle financeiro de mensalidades
-
-### 🧪 Tecnologias utilizadas
-
-React • Node.js • Express • MongoDB
-
-🔗 **Acessar aplicação:**
-https://gestao-alunos.viniciusmarinho.dev.br/
+🔗 [Aplicação](https://gestao-alunos.viniciusmarinho.dev.br)
+🔗 [Repositório](https://github.com/vinivmarinho/gerenciamentoDeAlunos)
 
 ---
 
+### 🧶 Mimos Crochê
+
+Aplicação Full Stack desenvolvida para um cliente real, com o objetivo de gerenciar um catálogo de peças de crochê.
+
+O sistema possui um catálogo público e uma área administrativa autenticada para gerenciamento de peças e imagens.
+
+**Tecnologias:** React, Node.js, Express, PostgreSQL, Cloudinary
+
+🔗 [Repositório](https://github.com/vinivmarinho/mimos_crochet)
+
+---
+
+### 📦 Product Dashboard
+
+Dashboard de gerenciamento de produtos desenvolvido com React e TypeScript, implementando operações de CRUD e persistência de dados no navegador.
+
+**Tecnologias:** React, TypeScript, Vite
+
+🔗 [Aplicação](https://produtos-dashboard.viniciusmarinho.dev.br)
+🔗 [Repositório](https://github.com/vinivmarinho/productDashboard)
 
 ## 📚 Atualmente estudando
 
 * TypeScript
-* Next.js
+* Arquitetura de aplicações backend
+* Desenvolvimento de APIs REST
 * PostgreSQL
-* Arquitetura Full Stack
-* APIs REST
-* Banco de Dados
+* Autenticação e autorização
+* Boas práticas de desenvolvimento de software
 
----
+## 🎯 O que estou buscando
 
-## 📈 Objetivos
-
-🎯 Evoluir como desenvolvedor full stack
-🎯 Trabalhar com desenvolvimento web e tecnologia
-🎯 Ingressar na área de dados futuramente
-
----
+Busco uma **oportunidade de estágio ou posição júnior em desenvolvimento de software**, onde eu possa trabalhar em projetos reais, aprender com desenvolvedores mais experientes e contribuir com a equipe.
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-marinho-376a8a365/)
+* **LinkedIn:** [vinicius-marinho-376a8a365](https://www.linkedin.com/in/vinicius-marinho-376a8a365/)
+* **GitHub:** [@vinivmarinho](https://github.com/vinivmarinho)
 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail\&logoColor=white)](mailto:vini.marinho2004@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp\&logoColor=white)](https://wa.me/5592984035972)
 
----
 
-> “Aprendizado contínuo é o que constrói grandes desenvolvedores.” 🚀
+
+
+
+
+
+
+
 
